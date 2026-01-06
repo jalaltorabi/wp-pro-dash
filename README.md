@@ -1,6 +1,5 @@
 # Sakoyeaval WP Pro Dashboard
 داشبورد حرفه ای وردپرس در دو نسخه وردپرس معمولی و وردپرس شبکه
-# Sakoyeaval Dashboard Tools
 نسخه: 1404.05.25  
 تیم توسعه: Sakoyeaval Team
 
